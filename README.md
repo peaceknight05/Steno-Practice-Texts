@@ -21,4 +21,4 @@ Additionally, there is also the "Incremental" difficulty, which is where the pas
 
 ### Non-fiction
 
-- (Incremental 0-4) Dicursive 1 - AI Opposition (398 Words)
+- (Incremental 0-4) Dicursive 1 - AI Opposition (399 Words)
