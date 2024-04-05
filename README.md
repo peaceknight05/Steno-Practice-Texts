@@ -19,6 +19,10 @@ Additionally, there is also the "Incremental" difficulty, which is where the pas
 
 ## Table of Contents
 
+### Fiction
+
+- (Difficulty 2.5) Flash Fiction 1 - Oyamazaki in Winter (658 Words)
+
 ### Non-fiction
 
 - (Incremental 0-4) Dicursive 1 - AI Opposition (399 Words)
